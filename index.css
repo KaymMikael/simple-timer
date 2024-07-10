@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faeee7;
+}
+
+main {
+  max-width: 35%;
+  margin-inline: auto;
+  padding: 17rem 0;
+}
+
+h1,
+p {
+  color: #33272a;
+}
+
+h1 {
+  text-align: center;
+}
+
+.time {
+  font-weight: bold;
+  margin-top: 12px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.button-wrapper {
+  margin-top: 12px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
